@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Practica1": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
